@@ -1,3 +1,3 @@
 # chai aur backend series 
 
-this is the vedio series of chai aur backend for practice i am learning with javascript
+this is the vedio series of chai aur backend for practice i am learning with javascript, express js, node js, mongodb, and more.
